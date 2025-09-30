@@ -4,7 +4,7 @@ module.exports = {
       name: "my-project",
       script: "npm",
       args: "start",
-      cwd: "/var/www/my-project",
+      cwd: "/home/app/strapi",
       instances: 1,
       autorestart: true,
       watch: false,
